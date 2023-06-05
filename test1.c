@@ -1,7 +1,6 @@
-hello universe and the milkyway.
+#include <stdio.h>
 
-Nitin Kanan
-
-
-
-Charudatta Badge
+int main() {
+	int a = 5;
+	return 0;
+}
