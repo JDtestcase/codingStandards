@@ -1,0 +1,2 @@
+# codingStandards
+JD coding standards
